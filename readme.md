@@ -6,4 +6,4 @@
 
 | Codename | Device | Version | Maintainer | Changelog |
 | :-: | :-: | :-: | :-: | :-: |
-| violet | Redmi Note 7 pro | 12.2.3+1.0 | [rokusenpai](https://t.me/rokusenpai)| [Device Changelog](./devices/violet/) |
+| violet | Redmi Note 7 pro | 12.3.0+1.1 | [rokusenpai](https://t.me/rokusenpai)| [Device Changelog](./devices/violet/) |
